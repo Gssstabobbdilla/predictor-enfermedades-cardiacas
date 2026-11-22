@@ -221,7 +221,7 @@ resultado = predecir_paciente(paciente)
 print(reporte_clinico(paciente))
 ```
 
-**Aplicación web:** _[enlace al despliegue, si está disponible]_
+**Aplicación web:** [Abrir aplicacion]([https://colab.research.google.com/drive/1kqBjqKRfV5RpkI1znaIAqdEdaQ1Jcgrz#scrollTo=rtlCjCjw](https://predictor-enfermedades-cardiacas-hb5oyajz8pk7wltw5nlbhr.streamlit.app/))
 
 ## Requerimientos del sistema
 
